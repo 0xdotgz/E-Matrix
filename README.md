@@ -10,7 +10,7 @@ E-Matrix is a Python-based chatbot that integrates the Matrix chat protocol with
 ***Installation*** 
  * Clone the Repository
    ```
-   https://github.com/elliotwellick/E-Matrix
+   https://github.com/0xdotgz/E-Matrix
    ```
  * Install requirements from requirements.txt
    ```
